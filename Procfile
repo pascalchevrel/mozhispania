@@ -1,1 +1,1 @@
-web: vendor/bin/heroku-php-apache2  -F fpm_custom.conf _site/
+web: heroku-php-apache2 _site/
