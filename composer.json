@@ -1,0 +1,13 @@
+{
+    "name": "pascalchevrel/mozhispania",
+    "description": "Sitio de información para participar a Mozilla desde España",
+    "type": "project",
+    "license": "MPL2",
+    "authors": [
+        {
+            "name": "Pascal Chevrel",
+            "email": "pascal@mozilla.com"
+        }
+    ],
+    "require": {}
+}
